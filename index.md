@@ -2,7 +2,7 @@
 
 HOME:
 
-https://paper-bot.github.io/
+https://paper-bot.github.io/123movieshub/
 
 THE VIDEO AND ALL MIRRORS WILL STILL WORK, EVEN AFTER 123MOVIESHUB IS LONG DEAD
 
