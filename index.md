@@ -13,6 +13,11 @@ ALL YOU NEED TO DO IS CHANGE THE URL:
 EX: https://YOURNAME.github.io/YOURDIPOSITORY/7-days.html
 
 
+/7-days.html
+
+[Link](/7-days.html)
+
+/7-days.html
 
 | TITLE | LINK |
 | ------------- | ------------- |
