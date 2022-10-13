@@ -1,23 +1,16 @@
 # 123movieshub BACKUP - OVER 20,000 TITLES BELOW
 
-HOME:
-
-https://paper-bot.github.io/123movieshub/
-
-THE VIDEO AND ALL MIRRORS WILL STILL WORK, EVEN AFTER 123MOVIESHUB IS LONG DEAD
+YES, THE VIDEO PlAYERS AND ALL MIRRORS WILL STILL WORK, EVEN AFTER 123MOVIESHUB IS LONG DEAD
 
 PLZ FORK!
 
 ALL YOU NEED TO DO IS CHANGE THE URL:
 
-EX: https://YOURNAME.github.io/YOURDIPOSITORY/7-days.html
+Use this tool: https://textcleaner.net/find-and-replace/ , edit the index.md, copy and paste the code, replace the YOURNAME and  YOURDEPOSITORY below:
+
+EX: https://YOURNAME.github.io/YOURDEPOSITORY/7-days.html
 
 
-/7-days.html
-
-[Link](/7-days.html)
-
-/7-days.html
 
 | TITLE | LINK |
 | ------------- | ------------- |
